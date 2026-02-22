@@ -1,8 +1,9 @@
 def print_text_to_console(text):
     """Print text to the console."""
-    pass
+    print(text)
 
 
 def write_file_builtin(path, content):
     """Write content to a file using Python builtins."""
-    pass
+    with open(path, "w", encoding="utf-8") as file:
+        file.write(content)
