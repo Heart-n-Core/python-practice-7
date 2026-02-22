@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ee1b351-9b31-4eec-8bc9-f34493531416" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/python-practice-7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-practice-7.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/io/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/io/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/io/output.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/io/output.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
